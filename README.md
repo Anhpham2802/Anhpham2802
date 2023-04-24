@@ -11,7 +11,7 @@
 - ⚡ Fun fact: ...
 
  -->
-<h1 align="center"><img src="https://thumbs.gfycat.com/PepperyGrizzledClownanemonefish-max-1mb.gif" witdh="10px"> </img> Hi, I'm Anhpham2802</h1>
+<h1 align="center"><img src="https://thumbs.gfycat.com/PepperyGrizzledClownanemonefish-max-1mb.gif" witdh="10px"> </img> <br>Hi, I'm Anhpham2802</h1>
 <!-- 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+Mono&pause=1000&width=435&lines=%3E+Welcome+to+my+profile+...+!;Heyyy!+I'm+Anh+Pham+%3C3" alt="Title" />
