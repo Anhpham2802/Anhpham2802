@@ -21,7 +21,7 @@
 <br> 
 <p>About Me 🌸</p>
 
-- 🍒: My full name is **@Anhpham2802**
+- 🍒: My full name is **Pham Thi Anh**
 - :school: I'm currently learning **Ha Noi University of Science and Technology**
 - :books: My major is **Web Developer**
 - :earth_asia: I'm living now in **Ha Noi, Viet Nam**
