@@ -21,12 +21,12 @@
 <br> 
 <p>About Me 🌸</p>
 
-- 🍒: My full name is **Pham Thi Anh**
-- :school: I'm currently learning **Ha Noi University of Science and Technology**
-- :books: My major is **Web Developer**
-- :earth_asia: I'm living now in **Ha Noi, Viet Nam**
-- :monocle_face: I'm interested in Read books and learn new things
-- ♥️: My quote is ***"A room without books is like a body without a soul"***
+- 🍒 My full name is **Pham Thi Anh**<br>
+- :school: I'm currently learning **Ha Noi University of Science and Technology**<br>
+- :books: My major is **Web Developer**<br>
+- :earth_asia: I'm living now in **Ha Noi, Viet Nam**<br>
+- :monocle_face: I'm interested in Read books and learn new things<br>
+- ♥️ My quote is ***"A room without books is like a body without a soul"***<br>
 
 ## 🌐 Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](ttps://www.facebook.com/PhamAnh2802/)
